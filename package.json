@@ -1,0 +1,15 @@
+{
+  "name": "hgertsdfasdfgsdfhsdfhsdfhsdfh",
+  "version": "1.0.0",
+  "description": "Prototyp einer Vereins-App-API (In-Memory, Node.js ohne Abhängigkeiten)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js",
+    "test": "node -e \"console.log('Kein Test definiert')\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
